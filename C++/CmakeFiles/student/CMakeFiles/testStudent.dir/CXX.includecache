@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/c_plus_plus/CmakeFiles/student/src/Student.cpp
+iostream
+-
+Student.h
+/home/ubuntu/c_plus_plus/CmakeFiles/student/src/Student.h
+
+/home/ubuntu/c_plus_plus/CmakeFiles/student/src/mainapp.cpp
+Student.h
+/home/ubuntu/c_plus_plus/CmakeFiles/student/src/Student.h
+
+include/Student.h
+string
+-
+

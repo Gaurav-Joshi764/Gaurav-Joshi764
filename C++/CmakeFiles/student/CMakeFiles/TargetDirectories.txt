@@ -1,0 +1,3 @@
+/home/ubuntu/c_plus_plus/CmakeFiles/student/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/c_plus_plus/CmakeFiles/student/CMakeFiles/testStudent.dir
+/home/ubuntu/c_plus_plus/CmakeFiles/student/CMakeFiles/edit_cache.dir
